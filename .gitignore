@@ -6,7 +6,10 @@
 # Ignore Python cache files
 *.py[cod]
 # Ignore data files
-data/
+data/category_tree.csv
+data/events.csv
+data/item_properties_part1.csv
+data/item_properties_part2.csv
 # Ignore Python bytecode files
 __pycache__/
 *.pyc
