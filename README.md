@@ -109,4 +109,4 @@ Retail_dropoff_analysis/
 ---
 
 ## Contact
-Created by a data analyst passionate about funnel optimization, user behavior analytics, and data-driven product strategy.
+Created by Yatri Patel.
